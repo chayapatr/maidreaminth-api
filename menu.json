@@ -1,0 +1,12 @@
+{
+    "appetizer": {
+        "arabakiSausage": {
+            "price" : 199,
+            "name" : {
+                "jp" : "",
+                "th" : "ไส้กรอกอาราบากิ",
+                "en" : "Arabaki Sausage"
+            }
+        }
+    }
+}
