@@ -3,7 +3,6 @@ const apicache = require('apicache')
 const axios = require('axios')
 const ddos = require('ddos')
 const app = express()
-const PORT = 3000
 
 let cache = apicache.middleware
 const menu = require('./menu')
@@ -24,6 +23,13 @@ const Ddos = new ddos({
 
 app.use(cache('5 minutes'))
 app.use(Ddos.express)
+
+app.get('/', (req, res) => {
+    res.status(200).json({
+        success: true,
+        data: 'สวัสดีครับแอดมิน ใส่ชุดเมดให้ดูหน่อยครับ'
+    })
+})
 
 app.get('/menu', (req, res) => {
     res.status(200).json({
@@ -90,6 +96,14 @@ app.get('/menu/:cat/:food', (req, res) => {
         return false
     }
 })
+
+app.get("*", (req, res) => {
+    res.status(404).json({"error": "not found"});
+    res.end();
+})
+
+const PORT = process.env.PORT || 3000
+
 app.listen(PORT, () => {
     console.log(`app is running on port ${PORT}`);
 })
