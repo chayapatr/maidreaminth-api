@@ -70,7 +70,6 @@ app.get('/menu/:cat', (req, res) => {
 app.get('/menu/:cat/:food', (req, res) => {
     const cat = req.params.cat
     const food = req.params.food
-    console.log(cat, food)
     if (food) {
         if (menu[cat][food]) {
             res.status(200).json({
