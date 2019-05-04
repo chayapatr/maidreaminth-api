@@ -2,6 +2,9 @@ const express = require('express')
 const apicache = require('apicache')
 const axios = require('axios')
 const ddos = require('ddos')
+const bodyparser = require('body-parser')
+const helemet = require('helmet')
+
 const app = express()
 
 let cache = apicache.middleware
@@ -23,6 +26,11 @@ const Ddos = new ddos({
 
 app.use(cache('5 minutes'))
 app.use(Ddos.express)
+app.use(bodyparser.urlencoded({
+    extended: true
+}));
+app.use(bodyparser.json());
+app.use(helmet());
 
 app.get('/', (req, res) => {
     res.status(200).json({
