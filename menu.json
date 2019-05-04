@@ -141,7 +141,7 @@
                 "th": "ออมเร็ตไรซ์ซอสแกงกะหรี่",
                 "en": "Omelette Rice Curry"
             }
-        },
+        }
     },
 
     "giant menu": {
@@ -235,8 +235,7 @@
                 "th": "คุมะดรีมมิน",
                 "en": "Kuma Dreamin"
             }
-        },
-
+        }
     },
 
     "teriyaki rice set": {
