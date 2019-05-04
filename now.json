@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "Maidreaminth-api-TEST",
+    "name": "maidreamin",
     "builds": [{
         "src": "server.js",
         "use": "@now/node-server",
@@ -18,5 +18,6 @@
         "src": "/.*",
         "dest": "/server.js"
     }],
-    "regions": ["sfo1", "sin"]
+    "regions": ["sfo1", "sin"],
+    "alias": "maidreamin.now.sh"
 }
