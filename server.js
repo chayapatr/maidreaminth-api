@@ -1,10 +1,12 @@
 const express = require('express')
-
+const apicache = require('apicache')
 const app = express()
 const PORT = 3000
 
+let cache = apicache.middleware
 const menu = require('./menu')
 
+app.use(cache('5 minutes'))
 
 app.get('/menu', (req, res) => {
     return res.status(200).json({
