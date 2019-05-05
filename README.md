@@ -24,7 +24,7 @@
 
 ```
 // With Fetch
-fetch("https://maidreamin.now.sh/menu/appetizer/arabaki%20sausage")
+fetch("https://maidreamin.now.sh/menu/appetizer/arabaki sausage")
 .then(res => res.json())
 .then(data => {
     // fetched data
@@ -33,7 +33,7 @@ fetch("https://maidreamin.now.sh/menu/appetizer/arabaki%20sausage")
 
 ```
 // With Axios
-Axios("https://maidreamin.now.sh/menu/appetizer/arabaki%20sausage")
+Axios("https://maidreamin.now.sh/menu/appetizer/arabaki sausage")
 .then(data => {
     // fetched data
 });
