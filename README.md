@@ -20,8 +20,6 @@
 
 >@aomkirby123: ไม่ได้เอาคอมมาง่ะ;-;
 
----
-
 ## ตัวอย่างการใช้
 
 ```
@@ -47,3 +45,25 @@ Axios("https://maidreamin.now.sh/menu/appetizer/arabaki%20sausage")
 - /menu/:category/:food | ข้อมูลอาหารรายชนิด
 
 - / | ( ͡° ͜ʖ ͡°)
+
+## Misc.
+#### รายชื่อหมวดหมู่สินค้า
+*case sensitive (ตัวเล็กทั้งหมด)*
+
+- best seller
+- highlight
+- omelette rice
+- giant menu
+- kawaii menu
+- teriyaki rice set
+- salad
+- appetizer
+- parfait
+- waffle
+- floats
+- shake smoothies
+- cake menu
+- beverage
+- goods
+
+
