@@ -3,7 +3,7 @@
         "kuma dreamin": {
             "price": 320,
             "name": {
-                "jp": "",
+                "jp": "くまドりーミン",
                 "th": "คุมะดรีมมิน",
                 "en": "Kuma dreamin"
             }
@@ -11,7 +11,7 @@
         "curry rice kumatan": {
             "price": 270,
             "name": {
-                "jp": "",
+                "jp": "くまたんかしーライ",
                 "th": "ข้าวแกงกะหรี่คุณหมี",
                 "en": "Curry Rice Kumatan"
             }
@@ -19,23 +19,31 @@
         "omelette rice curry": {
             "price": 250,
             "name": {
-                "jp": "",
+                "jp": "かしーオムラウス",
                 "th": "ออมเล็ตไรซ์ซอสแกงกะหรี่ญี่ปุ่น",
                 "en": "Omelette Rice Curry"
+            }
+        },
+        "moe potato": {
+            "price": 199,
+            "name": {
+                "jp": "萌えポテト",
+                "th": "โมเอะโปเตโต้",
+                "en": "Moe Potato"
             }
         },
         "takoyaki bomb": {
             "price": 199,
             "name": {
-                "jp": "",
-                "th": "โมเอะโปเตโต้",
-                "en": "Moe Potato"
+                "jp": "たこ焼き Bomb!",
+                "th": "ทาโกะยากิบอมบ์!",
+                "en": "Tokoyaki Bomb!"
             }
         },
         "love reamin cocktail": {
             "price": 320,
             "name": {
-                "jp": "",
+                "jp": "LOVEかクテりーみん",
                 "th": "Love*Reamin Cocktail",
                 "en": "เลิฟรีมมินค็อกเทล"
             }
@@ -43,7 +51,7 @@
         "love reamin parfait": {
             "price": 279,
             "name": {
-                "jp": "",
+                "jp": "LOVEりーみんパフエ",
                 "th": "เลิฟรีมมินพาเฟ่ต์",
                 "en": "Love*Reamin Parfait"
             }
@@ -51,7 +59,7 @@
         "turtle parfait": {
             "price": 169,
             "name": {
-                "jp": "",
+                "jp": "かめたんパフエ",
                 "th": "พาเฟ่ต์คุณเต่า (Greentea)",
                 "en": "Turtle Parfait"
             }
@@ -59,7 +67,7 @@
         "bear parfait": {
             "price": 169,
             "name": {
-                "jp": "",
+                "jp": "くまたんパフエ",
                 "th": "พาเฟต์คุณหมี (Chocolate)",
                 "en": "Bear Parfait"
             }
@@ -67,7 +75,7 @@
         "rabbit parfait": {
             "price": 169,
             "name": {
-                "jp": "",
+                "jp": "うさたんパフエ",
                 "th": "พาเฟต์คุณกระต่าย (Strawberry)",
                 "en": "Rabbit Parfait"
             }
@@ -75,7 +83,7 @@
         "kitten parfait": {
             "price": 169,
             "name": {
-                "jp": "",
+                "jp": "ねこたんパフエ",
                 "th": "พาเฟต์คุณเหมียว (Vanilla)",
                 "en": "Kitten Parfait"
             }
@@ -83,7 +91,7 @@
         "seal parfait": {
             "price": 169,
             "name": {
-                "jp": "",
+                "jp": "あざたんパフエ",
                 "th": "พาเฟต์แมวน้ำ (Milk)",
                 "en": "Seal Parfait"
             }
@@ -91,7 +99,7 @@
         "puppy parfait": {
             "price": 169,
             "name": {
-                "jp": "",
+                "jp": "いぬたんパフエ",
                 "th": "พาเฟต์ร้องหมา (Cappiccino)",
                 "en": "Puppy Parfait"
             }
@@ -102,7 +110,7 @@
         "omelette rice hayashi": {
             "price": 290,
             "name": {
-                "jp": "",
+                "jp": "オムライハヤツ唐揚げ",
                 "th": "ออมเล็ตไรซ์ซอสฮายาชิและไก่ทอดคาราเกะ",
                 "en": "Omelette Rice Hayashi Chicken Karage"
             }
@@ -113,7 +121,7 @@
         "omelette rice tomyumkung": {
             "price": 250,
             "name": {
-                "jp": "",
+                "jp": "オムライストムヤムジクソ",
                 "th": "ออมเล็ตไรซ์ต้มยำกุ้ง",
                 "en": "Omelette Rice TomYumKung"
             }
@@ -121,7 +129,7 @@
         "omelette rice curry chicken": {
             "price": 290,
             "name": {
-                "jp": "",
+                "jp": "オムライスカレー唐揚げ",
                 "th": "ออมเล็ตไรซ์ซอสแกงกะหรี่และไก่ทอดคาราอาเกะ",
                 "en": "Omelette Rice Curry Chicken"
             }
@@ -129,7 +137,7 @@
         "omelette rice curry pork": {
             "price": 320,
             "name": {
-                "jp": "",
+                "jp": "オムライスカレートソカツ",
                 "th": "ออมเล็ตไรซ์ซอสแกงกะหรี่และหมูทอดทงคัตสึ",
                 "en": "Omelette Rice Curry Port"
             }
@@ -137,7 +145,7 @@
         "omelette rice curry": {
             "price": 250,
             "name": {
-                "jp": "",
+                "jp": "オムライスカレー",
                 "th": "ออมเร็ตไรซ์ซอสแกงกะหรี่",
                 "en": "Omelette Rice Curry"
             }
@@ -744,6 +752,110 @@
                 "jp": "",
                 "th": "เชกิ",
                 "en": "Cheki"
+            }
+        },
+        "photograph": {
+            "price": 100,
+            "name": {
+                "jp": "",
+                "th": "รูปถ่ายน้องเมด",
+                "en": "Photograph"
+            }
+        },
+        "wristband": {
+            "price": 99,
+            "name": {
+                "jp": "",
+                "th": "ริสแบนด์",
+                "en": "Wristband"
+            }
+        },
+        "key holder": {
+            "price": 169,
+            "name": {
+                "jp": "",
+                "th": "พวงกุญแจ",
+                "en": "Key Holder"
+            }
+        },
+        "canbadge": {
+            "price": 99,
+            "name": {
+                "jp": "",
+                "th": "เข็มกลัด",
+                "en": "Canbadge"
+            }
+        },
+        "magic pen": {
+            "price": 99,
+            "name": {
+                "jp": "",
+                "th": "ปากกาวิเศษ",
+                "en": "Magic Pen"
+            }
+        },
+        "animal headband": {
+            "price": 200,
+            "name": {
+                "jp": "",
+                "th": "ที่คาดผมหูสัตว์",
+                "en": "Animal Headband"
+            }
+        },
+        "cd album": {
+            "price": 999,
+            "name": {
+                "jp": "",
+                "th": "อัลบั้ม cd",
+                "en": "CD Album"
+            }
+        },
+        "CD single": {
+            "price": 490,
+            "name": {
+                "jp": "",
+                "th": "อัลบั้ม ซิงเกิ้ล",
+                "en": "CD Single"
+            }
+        },
+        "photo album": {
+            "price": 150,
+            "name": {
+                "jp": "",
+                "th": "อัลบั้มรูปน้องเมด",
+                "en": "Photo Album"
+            }
+        },
+        "clear file": {
+            "price": 99,
+            "name": {
+                "jp": "",
+                "th": "รูปน้องเมด",
+                "en": "Clear File"
+            }
+        },
+        "normal tapestry": {
+            "price": 3300,
+            "name": {
+                "jp": "",
+                "th": "",
+                "en": "Normal Tapestry"
+            }
+        },
+        "queen tapestry": {
+            "price": 6600,
+            "name": {
+                "jp": "",
+                "th": "",
+                "en": "Queen Tapestry"
+            }
+        },
+        "god tapestry": {
+            "price": 10900,
+            "name": {
+                "jp": "",
+                "th": "",
+                "en": "God Tapestry"
             }
         }
     }
