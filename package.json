@@ -7,7 +7,6 @@
   "license": "MIT",
   "dependencies": {
     "apicache": "^1.4.0",
-    "axios": "^0.18.0",
     "ddos": "^0.2.1",
     "express": "^4.16.4",
     "express-end": "0.0.8",

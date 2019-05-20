@@ -1,6 +1,5 @@
 const express = require('express')
 const apicache = require('apicache')
-const axios = require('axios')
 const ddos = require('ddos')
 const bodyparser = require('body-parser')
 const queue = require('express-queue')
