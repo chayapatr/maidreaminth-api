@@ -12,12 +12,15 @@
             "Access-Control-Allow-Methods": "GET",
             "Access-Control-Allow-Headers": "X-Requested-With, Content-Type, Accept",
             "x-now-cache": "HIT",
-            "cache-control": "s-maxage=604800",
+            "cache-control": "s-maxage=604800, max-age=604800",
             "Accept-Encoding": "br"
         },
         "src": "/.*",
         "dest": "/server.js"
     }],
     "regions": ["sfo1", "sin"],
-    "alias": "maidreamin.now.sh"
+    "alias": "maidreamin.now.sh",
+    "github": {
+        "enabled": false
+    }
 }

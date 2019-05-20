@@ -3,6 +3,7 @@ const apicache = require('apicache')
 const axios = require('axios')
 const ddos = require('ddos')
 const bodyparser = require('body-parser')
+const queue = require('express-queue')
 const helmet = require('helmet')
 
 const app = express()
@@ -18,17 +19,18 @@ onDenial = err => {
 const Ddos = new ddos({
     burst: 30,
     limit: 30,
-    maxCount: 60,
+    maxCount: 80,
     checkInterval: 5,
     onDenial,
-    errormessage: "You have been blocked, Too many requests"
+    errormessage: "You have been blocked by attemped Too many requests, UMU"
 })
 
-app.use(cache('5 minutes'))
+app.use(cache('1 hour'))
 app.use(Ddos.express)
 app.use(bodyparser.urlencoded({
     extended: true
 }));
+app.use(queue({ activeLimit: 7, queuedLimit: -1 }));
 app.use(bodyparser.json());
 app.use(helmet());
 
@@ -112,5 +114,5 @@ app.get("*", (req, res) => {
 const PORT = process.env.PORT || 3000
 
 app.listen(PORT, () => {
-    console.log(`app is running on port ${PORT}`);
+    console.log(`> Running on port ${PORT} desu!`);
 })
