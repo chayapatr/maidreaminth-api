@@ -1,4 +1,22 @@
-{
+{   
+    "special menu": {
+        "little sisters": {
+            "price": 350,
+            "sub menu" : ["chocolate banoffee strawberry", "oreo milk shake"]
+        },
+        "power dream": {
+            "price": 350,
+            "sub menu": ["happy friend fried rice", "sakura milkshake"]
+        },
+        "yume no nyan": {
+            "price": 350,
+            "sub menu": ["spicy vermicelli salad", "lychee and butterfly pea soda"]
+        },
+        "pink puzzle": {
+            "price": 350,
+            "sub menu": ["greentea mousse crepe", "ruby milkshake"]
+        }
+    },
     "best seller": {
         "kuma dreamin": {
             "price": 320,

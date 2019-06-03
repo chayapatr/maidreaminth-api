@@ -8,10 +8,10 @@
   "dependencies": {
     "apicache": "^1.4.0",
     "ddos": "^0.2.1",
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "express-end": "0.0.8",
     "express-queue": "^0.0.12",
     "express-validator": "^5.3.1",
-    "helmet": "^3.17.0"
+    "helmet": "^3.18.0"
   }
 }
