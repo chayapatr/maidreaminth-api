@@ -156,7 +156,7 @@
         "omelette rice": {
             "price": 699,
             "name": {
-                "jp": "",
+                "jp": "オムライス",
                 "th": "ออมเล็ตไรซ์",
                 "en": "Omelette Rice"
             }
@@ -164,7 +164,7 @@
         "hatashi curry rice": {
             "price": 799,
             "name": {
-                "jp": "",
+                "jp": "ハヤシ/カレーライス",
                 "th": "ฮาตาชิ/ ข้าวแกงกะหรี่",
                 "en": "Hatashi/ Curry Rice"
             }
@@ -172,7 +172,7 @@
         "ham cheese omelette rice": {
             "price": 799,
             "name": {
-                "jp": "",
+                "jp": "ハム&チーズ オムライス",
                 "th": "ข้าวออมเล็ต แฮม แอนด์ ชีส",
                 "en": "Ham & Cheese Omelette Rice"
             }
@@ -180,7 +180,7 @@
         "takoyaki": {
             "price": 699,
             "name": {
-                "jp": "",
+                "jp": "たこ焼き",
                 "th": "ทาโกะยากิ",
                 "en": "Takoyaki"
             }
@@ -188,7 +188,7 @@
         "gyoza": {
             "price": 599,
             "name": {
-                "jp": "",
+                "jp": "餃子",
                 "th": "เกี๊ยวซ่า",
                 "en": "Gyoza"
             }
@@ -196,7 +196,7 @@
         "ice tower": {
             "price": 599,
             "name": {
-                "jp": "",
+                "jp": "アエス タワー",
                 "th": "ไอซ์ ทาเวอร์",
                 "en": "Ice Tower"
             }
@@ -204,7 +204,7 @@
         "giant omelette curry hayashi rice": {
             "price": 699,
             "name": {
-                "jp": "",
+                "jp": "イヌライスカレー",
                 "th": "ออมเล็ตไรซ์แกงกะหรี่/ ฮายาชิจานยักษ์!",
                 "en": "Giant! Omelette Curry/Hayashi Rice"
             }
@@ -215,7 +215,7 @@
         "kuma croquette curry": {
             "price": 280,
             "name": {
-                "jp": "",
+                "jp": "くまコロックカレー",
                 "th": "ข้าวแกงกะหรี่คุณหมีคร็อคเกะ",
                 "en": "Kuma Croquette Curry"
             }
@@ -223,7 +223,7 @@
         "kumatan hamburge": {
             "price": 350,
             "name": {
-                "jp": "",
+                "jp": "くまたんハンバーグ",
                 "th": "แฮมเบิร์กคุณหมี",
                 "en": "Kumatan Hamburge"
             }
@@ -231,7 +231,7 @@
         "curry rice kumatan": {
             "price": 270,
             "name": {
-                "jp": "",
+                "jp": "くまたんカレー",
                 "th": "ข้าวแกงกะหรี่คุณหมี",
                 "en": "Curry Rice Kumatan"
             }
@@ -239,7 +239,7 @@
         "kuman dreamin": {
             "price": 320,
             "name": {
-                "jp": "",
+                "jp": "くまドリーミン",
                 "th": "คุมะดรีมมิน",
                 "en": "Kuma Dreamin"
             }
@@ -250,7 +250,7 @@
         "salmon teriyaki rice set": {
             "price": 250,
             "name": {
-                "jp": "",
+                "jp": "照り焼きサーモンライスセット",
                 "th": "เซ็ตข้าวแซลอนเทอริยากิ",
                 "en": "Salmon Teriyaki Rice Set"
             }
@@ -258,7 +258,7 @@
         "chicken teriyaki rice set": {
             "price": 230,
             "name": {
-                "jp": "",
+                "jp": "チキン照り焼きライスセット",
                 "th": "เซ็ตข้าวไก่เทอริยากิ",
                 "en": "Chicken Teriyaki Rice Set"
             }
@@ -266,7 +266,7 @@
         "arabiki sausage": {
             "price": 70,
             "name": {
-                "jp": "",
+                "jp": "あらひき ソーセーツ",
                 "th": "ไส้กรอกอาราบิกิ",
                 "en": "Arabiki Sausage"
             }
@@ -274,7 +274,7 @@
         "pork tonkutsu": {
             "price": 90,
             "name": {
-                "jp": "",
+                "jp": "トン豚",
                 "th": "หมูทอดทงคัตสึ",
                 "en": "Pork Tonkutsu"
             }
@@ -282,7 +282,7 @@
         "rice": {
             "price": 30,
             "name": {
-                "jp": "",
+                "jp": "ご飯",
                 "th": "ข้าวญี่ปุ่น",
                 "en": "Rice"
             }
@@ -293,7 +293,7 @@
         "caesar salad": {
             "price": 120,
             "name": {
-                "jp": "",
+                "jp": "シーサーサラタ",
                 "th": "ซีซ่าสลัด",
                 "en": "Caesar Salad"
             }
@@ -304,7 +304,7 @@
         "arabaki sausage": {
             "price": 199,
             "name": {
-                "jp": "",
+                "jp": "あらびき ソーセーツ",
                 "th": "ไส้กรอกอาราบากิ",
                 "en": "Arabaki Sausage"
             }
@@ -312,7 +312,7 @@
         "takoyaki": {
             "price": 119,
             "name": {
-                "jp": "",
+                "jp": "たこ焼き",
                 "th": "ทาโกะยากิ",
                 "en": "Takoyaki"
             }
@@ -320,7 +320,7 @@
         "french fries": {
             "price": 99,
             "name": {
-                "jp": "",
+                "jp": "フライドポテト",
                 "th": "เฟรนซ์ฟราย",
                 "en": "French Fries"
             }
@@ -328,7 +328,7 @@
         "cheese gyoza": {
             "price": 129,
             "name": {
-                "jp": "",
+                "jp": "チーズ餃子",
                 "th": "เกี๋ยวซ่าชีส",
                 "en": "Cheese Gyoza"
             }
@@ -336,7 +336,7 @@
         "boiled gyoza": {
             "price": 99,
             "name": {
-                "jp": "",
+                "jp": "茹でた餃子",
                 "th": "เกี๋ยวซ่านึ่ง",
                 "en": "Boiled Gyoza"
             }
@@ -344,7 +344,7 @@
         "fried gyoza": {
             "price": 99,
             "name": {
-                "jp": "",
+                "jp": "物け餃子",
                 "th": "เกี๋ยวซ่าทอด",
                 "en": "Fried Gyoza"
             }
@@ -352,7 +352,7 @@
         "moe potato": {
             "price": 199,
             "name": {
-                "jp": "",
+                "jp": "モーエ ポテト",
                 "th": "มันฝรั่ง โมเอะ",
                 "en": "Moe Potato"
             }
@@ -360,7 +360,7 @@
         "takoyaki bomb": {
             "price": 149,
             "name": {
-                "jp": "",
+                "jp": "たこ焼き ボム",
                 "th": "ทาโกะยากิ บอมบ์!",
                 "en": "Tokoyaki Bomb!"
             }
@@ -371,7 +371,7 @@
         "bear parfait": {
             "price": 169,
             "name": {
-                "jp": "",
+                "jp": "くまたんパワェ",
                 "th": "พาเฟต์คุณหมี (Chocolate)",
                 "en": "Bear Parfait"
             }
@@ -379,7 +379,7 @@
         "bunny parfait": {
             "price": 169,
             "name": {
-                "jp": "",
+                "jp": "ぴよんたんパワェ",
                 "th": "พาเฟต์คุณกระต่าย (Strawberry)",
                 "en": "Rabbit Parfait"
             }
@@ -387,7 +387,7 @@
         "kero kero parfait": {
             "price": 169,
             "name": {
-                "jp": "",
+                "jp": "ケロさゃんパワェ",
                 "th": "พาเฟต์น้องกบ (Green Tea)",
                 "en": "kero kero parfait"
             }
@@ -395,7 +395,7 @@
         "kitten parfait": {
             "price": 169,
             "name": {
-                "jp": "",
+                "jp": "ネコたんパワェ",
                 "th": "พาเฟต์คุณเหมียว (Vanilla)",
                 "en": "Kitten Parfait"
             }
@@ -403,7 +403,7 @@
         "unicorn parfait": {
             "price": 169,
             "name": {
-                "jp": "",
+                "jp": "ユニたんパワェ",
                 "th": "พาเฟต์น้องยูนิคอร์น (Rainbow)",
                 "en": "Unicorn Parfait"
             }
@@ -411,7 +411,7 @@
         "seal parfait": {
             "price": 169,
             "name": {
-                "jp": "",
+                "jp": "しらたんパワェ",
                 "th": "พาเฟต์แมวน้ำ (Milk)",
                 "en": "Seal Parfait"
             }
@@ -422,7 +422,7 @@
         "buddy waffle": {
             "price": 250,
             "name": {
-                "jp": "",
+                "jp": "パディワッワル",
                 "th": "บัดดี้วาเฟิล",
                 "en": "Buddy Waffle"
             }
@@ -433,7 +433,7 @@
         "bear float": {
             "price": 199,
             "name": {
-                "jp": "",
+                "jp": "くまたんワロート",
                 "th": "โฟลต์น้องหมี (Chocolate)",
                 "en": "Bear Float"
             }
@@ -441,7 +441,7 @@
         "bunny float": {
             "price": 199,
             "name": {
-                "jp": "",
+                "jp": "ぴよんたんワロート",
                 "th": "โฟลต์น้องกระต่าย (Strawberry)",
                 "en": "Bunny Float"
             }
@@ -449,7 +449,7 @@
         "kero kero float": {
             "price": 199,
             "name": {
-                "jp": "",
+                "jp": "ケロちゃんワロート",
                 "th": "โฟลต์น้องกบ (Green Tea)",
                 "en": ""
             }
@@ -457,7 +457,7 @@
         "kitten float": {
             "price": 199,
             "name": {
-                "jp": "",
+                "jp": "ネコたんワロート",
                 "th": "โฟลต์น้องแมว (Vanilla)",
                 "en": "Kitten Float"
             }
@@ -465,7 +465,7 @@
         "unicorn float": {
             "price": 199,
             "name": {
-                "jp": "",
+                "jp": "ウニたんワロート",
                 "th": "โฟลต์น้องยูนิคอร์น (Rainbow)",
                 "en": "Unicorn Float"
             }
@@ -473,7 +473,7 @@
         "seal float": {
             "price": 199,
             "name": {
-                "jp": "",
+                "jp": "しるたんワロート",
                 "th": "โฟลต์น้องแมวน้ำ (Milk)",
                 "en": "Seal Float"
             }
@@ -484,7 +484,7 @@
         "chocolate milkshake": {
             "price": 149,
             "name": {
-                "jp": "",
+                "jp": "チョコレートミルクシェーク",
                 "th": "ช็อคโกแลตมิลด์เชค",
                 "en": "Chocolate Milkshake"
             }
@@ -492,7 +492,7 @@
         "greentea milkshake": {
             "price": 149,
             "name": {
-                "jp": "",
+                "jp": "緑茶ミルクシェーク",
                 "th": "กรีนทีมิวล์เชค",
                 "en": "Greentea Milkshake"
             }
@@ -500,7 +500,7 @@
         "strawberry milkshake": {
             "price": 149,
             "name": {
-                "jp": "",
+                "jp": "イチゴミルクシェーク",
                 "th": "สตอร์เบอรรี่มิลด์เชค",
                 "en": "Strawberry Milkshake"
             }
@@ -508,7 +508,7 @@
         "pony milkshake": {
             "price": 169,
             "name": {
-                "jp": "",
+                "jp": "ポニーミルクシェーク",
                 "th": "โพนี่มิลด์เชค",
                 "en": "Pony Milkshake"
             }
@@ -516,7 +516,7 @@
         "mango smoothie": {
             "price": 169,
             "name": {
-                "jp": "",
+                "jp": "マンゴースムーシー",
                 "th": "แมงโกสมูทตี้",
                 "en": "Mango Smoothie"
             }
@@ -524,7 +524,7 @@
         "strawberry smoothie": {
             "price": 120,
             "name": {
-                "jp": "",
+                "jp": "イチゴスムーシー",
                 "th": "สตอรเบอร์รี่สมูทตี้",
                 "en": "Strawberry Smoothie"
             }
@@ -535,7 +535,7 @@
         "strawberry short cake": {
             "price": 129,
             "name": {
-                "jp": "",
+                "jp": "イチゴショートケーキ",
                 "th": "สตรอว์เบอร์รี่ช็อตเค้ก",
                 "en": "Strawberry Short Cake"
             }
@@ -543,7 +543,7 @@
         "chocolate oreo cake": {
             "price": 129,
             "name": {
-                "jp": "",
+                "jp": "チョコレートオレオケーキ",
                 "th": "เค้กช็อคโกแลตโอริโอ้",
                 "en": "Chocolate Oreo Cake"
             }
@@ -551,7 +551,7 @@
         "black forest cake": {
             "price": 129,
             "name": {
-                "jp": "",
+                "jp": "ブラックオレオケーキ",
                 "th": "แบล็คฟอเรสต์เค้ก",
                 "en": "Black Forest Cake"
             }
@@ -559,7 +559,7 @@
         "rainbow crepe cake": {
             "price": 129,
             "name": {
-                "jp": "",
+                "jp": "虹クレープケーキ",
                 "th": "เครปเค้กเรนโบว์",
                 "en": "Rainbow Crepe Cake"
             }
@@ -567,7 +567,7 @@
         "soft fudge chocolate cake": {
             "price": 129,
             "name": {
-                "jp": "",
+                "jp": "ソフトファッジチョコレートケーキ",
                 "th": "เค้กช็อคโกแลตหน้านิ่ม",
                 "en": "Soft Fudge Chocolate Cake"
             }
@@ -578,7 +578,7 @@
         "love reamin soda": {
             "price": 120,
             "name": {
-                "jp": "",
+                "jp": "ラフ*リミン ソーダ",
                 "th": "เลิฟเรมินโซดา",
                 "en": "Love*Reamin Soda"
             }
@@ -586,7 +586,7 @@
         "americano": {
             "price": 99,
             "name": {
-                "jp": "",
+                "jp": "アメリカーノ",
                 "th": "อเมริกาโน่",
                 "en": "Americacno (Hot/Iced)"
             }
@@ -594,7 +594,7 @@
         "cappuccino": {
             "price": 120,
             "name": {
-                "jp": "",
+                "jp": "カプチーノ",
                 "th": "คาปูชิโน่",
                 "en": "Cappuccino (Hot/Iced)"
             }
@@ -602,7 +602,7 @@
         "cafe latte": {
             "price": 120,
             "name": {
-                "jp": "",
+                "jp": "カフェラテ",
                 "th": "คาเฟ่ลาเต้",
                 "en": "Cafe Latte (Hot/Iced)"
             }
@@ -610,7 +610,7 @@
         "english tea hot": {
             "price": 99,
             "name": {
-                "jp": "",
+                "jp": "紅茶 (ホット)",
                 "th": "อิงลิชที (ร้อน)",
                 "en": "English Tea (Hot)"
             }
@@ -618,7 +618,7 @@
         "english tea iced": {
             "price": 120,
             "name": {
-                "jp": "",
+                "jp": "紅茶 (アイス)",
                 "th": "อิงลิชที (เย็น)",
                 "en": "English Tea (Iced)"
             }
@@ -626,7 +626,7 @@
         "lemon tea": {
             "price": 99,
             "name": {
-                "jp": "",
+                "jp": "レモンティー",
                 "th": "เลมอนที",
                 "en": "Lemon Tea"
             }
@@ -634,7 +634,7 @@
         "thai tea": {
             "price": 99,
             "name": {
-                "jp": "",
+                "jp": "タイミルクティー",
                 "th": "ชาไทย",
                 "en": "Thai Tea"
             }
@@ -642,7 +642,7 @@
         "cocoa milk hot": {
             "price": 69,
             "name": {
-                "jp": "",
+                "jp": "ココアミルク (ホット)",
                 "th": "โกโก้นมสด (ร้อน)",
                 "en": "Cocoa Milk (Hot)"
             }
@@ -650,7 +650,7 @@
         "cocoa milk iced": {
             "price": 99,
             "name": {
-                "jp": "",
+                "jp": "ココアミルク (アイス)",
                 "th": "โกโก้นมสด (เย็น)",
                 "en": "Cocoa Milk (Iced)"
             }
@@ -658,7 +658,7 @@
         "fresh milk hot": {
             "price": 69,
             "name": {
-                "jp": "",
+                "jp": "ミルク (ホット)",
                 "th": "นมสด (ร้อน)",
                 "en": "Fresh Milk (Hot)"
             }
@@ -666,7 +666,7 @@
         "fresh milk iced": {
             "price": 99,
             "name": {
-                "jp": "",
+                "jp": "ミルク (アイス)",
                 "th": "นมสด (เย็น)",
                 "en": "99"
             }
@@ -674,7 +674,7 @@
         "green tea refill": {
             "price": 69,
             "name": {
-                "jp": "",
+                "jp": "お茶",
                 "th": "ชาเขียนรีฟิล",
                 "en": "Green Tea Refill (Hot/Iced)"
             }
@@ -682,7 +682,7 @@
         "coke": {
             "price": 59,
             "name": {
-                "jp": "",
+                "jp": "コーテ",
                 "th": "โค้ก",
                 "en": "coke"
             }
@@ -690,7 +690,7 @@
         "coke zero": {
             "price": 59,
             "name": {
-                "jp": "",
+                "jp": "コーテ ゼロ",
                 "th": "โค้กซีโร่",
                 "en": "Coke Zero"
             }
@@ -698,7 +698,7 @@
         "soda": {
             "price": 39,
             "name": {
-                "jp": "",
+                "jp": "ソーダ",
                 "th": "โซดา",
                 "en": "soda"
             }
@@ -706,7 +706,7 @@
         "oolong tea": {
             "price": 59,
             "name": {
-                "jp": "",
+                "jp": "ウーロンちゃ",
                 "th": "ชาอู่หลง",
                 "en": "Oolong tea"
             }
@@ -714,7 +714,7 @@
         "jasmine tea": {
             "price": 59,
             "name": {
-                "jp": "",
+                "jp": "シャスミソ茶",
                 "th": "ชามะลิ",
                 "en": "Jasmine Tea"
             }
@@ -722,7 +722,7 @@
         "moe water": {
             "price": 29,
             "name": {
-                "jp": "",
+                "jp": "萌水",
                 "th": "น้ำดื่ม",
                 "en": "Moe Water"
             }
@@ -730,7 +730,7 @@
         "orange juice": {
             "price": 69,
             "name": {
-                "jp": "",
+                "jp": "オレンジジユース",
                 "th": "น้ำส้ม",
                 "en": "Orange Juice"
             }
@@ -738,7 +738,7 @@
         "apple juice": {
             "price": 69,
             "name": {
-                "jp": "",
+                "jp": "リンゴジュース",
                 "th": "น้ำแอปเปิล",
                 "en": "Apple Juice"
             }
@@ -749,7 +749,7 @@
         "cheki": {
             "price": 100,
             "name": {
-                "jp": "",
+                "jp": "チェキ",
                 "th": "เชกิ",
                 "en": "Cheki"
             }
@@ -757,7 +757,7 @@
         "photograph": {
             "price": 100,
             "name": {
-                "jp": "",
+                "jp": "写真",
                 "th": "รูปถ่ายน้องเมด",
                 "en": "Photograph"
             }
@@ -765,7 +765,7 @@
         "wristband": {
             "price": 99,
             "name": {
-                "jp": "",
+                "jp": "リストバンド",
                 "th": "ริสแบนด์",
                 "en": "Wristband"
             }
@@ -773,7 +773,7 @@
         "key holder": {
             "price": 169,
             "name": {
-                "jp": "",
+                "jp": "キーホルダー",
                 "th": "พวงกุญแจ",
                 "en": "Key Holder"
             }
@@ -781,7 +781,7 @@
         "canbadge": {
             "price": 99,
             "name": {
-                "jp": "",
+                "jp": "キャンバッジ",
                 "th": "เข็มกลัด",
                 "en": "Canbadge"
             }
@@ -789,7 +789,7 @@
         "magic pen": {
             "price": 99,
             "name": {
-                "jp": "",
+                "jp": "魔法のペン",
                 "th": "ปากกาวิเศษ",
                 "en": "Magic Pen"
             }
@@ -797,7 +797,7 @@
         "animal headband": {
             "price": 200,
             "name": {
-                "jp": "",
+                "jp": "ヘッドバンド",
                 "th": "ที่คาดผมหูสัตว์",
                 "en": "Animal Headband"
             }
@@ -805,7 +805,7 @@
         "cd album": {
             "price": 999,
             "name": {
-                "jp": "",
+                "jp": "CDアルバム",
                 "th": "อัลบั้ม cd",
                 "en": "CD Album"
             }
@@ -813,7 +813,7 @@
         "CD single": {
             "price": 490,
             "name": {
-                "jp": "",
+                "jp": "CDシングル",
                 "th": "อัลบั้ม ซิงเกิ้ล",
                 "en": "CD Single"
             }
@@ -821,7 +821,7 @@
         "photo album": {
             "price": 150,
             "name": {
-                "jp": "",
+                "jp": "フォトアルバム",
                 "th": "อัลบั้มรูปน้องเมด",
                 "en": "Photo Album"
             }
@@ -829,7 +829,7 @@
         "clear file": {
             "price": 99,
             "name": {
-                "jp": "",
+                "jp": "クリアファイル",
                 "th": "รูปน้องเมด",
                 "en": "Clear File"
             }
@@ -837,24 +837,24 @@
         "normal tapestry": {
             "price": 3300,
             "name": {
-                "jp": "",
-                "th": "",
+                "jp": "通常のタペストリー",
+                "th": "โปสเตอร์ธรรมดา",
                 "en": "Normal Tapestry"
             }
         },
         "queen tapestry": {
             "price": 6600,
             "name": {
-                "jp": "",
-                "th": "",
+                "jp": "女王タペストリー",
+                "th": "โปสเตอร์ราชินี",
                 "en": "Queen Tapestry"
             }
         },
         "god tapestry": {
             "price": 10900,
             "name": {
-                "jp": "",
-                "th": "",
+                "jp": "神タペストリー",
+                "th": "คามิโปสเตอร์",
                 "en": "God Tapestry"
             }
         }
