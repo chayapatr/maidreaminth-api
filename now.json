@@ -18,7 +18,7 @@
         "src": "/.*",
         "dest": "/server.js"
     }],
-    "regions": ["sin1", "sin"],
+    "regions": ["all"],
     "alias": "maidreamin.now.sh",
     "github": {
         "enabled": false
